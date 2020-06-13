@@ -13,10 +13,15 @@
 ## Тест случаи според критериумот Every branch
 
 1.user==null
+
 2.user=1,userna=mearija,pw=null
+
 3.user=2,username=Mar1, pw=marijatrajk
+
 4.user=3,username=marm, pw=marijaraj1@
+
 5.user=4,username=maria, pw=marija
+
 6.user=6,username=Mar123, pw=Mar
 
 Со every branch критериумот ги пишуваме(односно изминуваме) сеите гранки од CFG(графот) и низ овие 6 тест случаеви се препокрива цела функција се случи да ни се поклопат двата критериуми со истите тест примери немаше потреба од дополнителни.
