@@ -5,4 +5,4 @@
 
 # Control Flow Graph
 
-![](/Images/CFG.png)
+![](/Images/cfg.png)
