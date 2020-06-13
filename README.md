@@ -4,3 +4,5 @@
 Ја добив групата на код 3
 
 # Control Flow Graph
+
+![GitHub Logo](/desktop/CFG.png)
