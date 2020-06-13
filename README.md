@@ -6,3 +6,5 @@
 # Control Flow Graph
 
 ![](/Images/cfg.png)
+
+## Цикломатска комплексност
