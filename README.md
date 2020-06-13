@@ -5,4 +5,4 @@
 
 # Control Flow Graph
 
-![GitHub Logo](/desktop/CFG.png)
+![](/Images/CFG.png)
